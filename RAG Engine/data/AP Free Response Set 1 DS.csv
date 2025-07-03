@@ -1,0 +1,69 @@
+Question ID,Text,Question Image,Question Type 1,Question Type 2,Main Topic,Subtopic
+1," A block of mass m is pulled across a rough horizontal table by a string connected to a motor that is attached to the floor. The string passes over a pulley with negligible friction that is vertically aligned with the left edge of the table as shown. The string and pulley both have negligible mass. The pulley is at height H above the table. The motor exerts a constant force of tension FT on the string, and the block remains in contact with the table at all times as the block slides across the table from x = L to x = 0. The coefficient of kinetic friction between the table and the block is μk. Express all algebraic answers in terms of m, H, FT, x, μk, L, and physical constants as appropriate.",https://drive.google.com/file/d/1FQf08Y6D8L2HQzKq-zZ8sBmpRtsoTlZj/view?usp=share_link,,,,
+1a,"On the dot below that represents the block, draw and label the forces (not components) that act on the block when the block is at x = L. Each force must be represented by a distinct arrow starting on, and pointing away from, the dot.",https://drive.google.com/file/d/1hyKpJAFspJa4vDhZ_J0SKZwJbY4GrbeA/view?usp=share_link,Conceptual,FRQ,Mechanics,Newton’s Laws
+1b,Derive an expression for the angle \theta that the string makes with the horizontal as a function of x.,,Numerical,FRQ,Mechanics,"Work, Energy, and Power
+"
+1c-1,Derive an expression for the normal force F_N exerted on the block by the table as a function of the block’s position x.,,Numerical,FRQ,Mechanics,"Newton’s Laws + Friction
+"
+1c-2,Derive an expression for the magnitude of the net horizontal force F_{\text{net}} exerted on the block as a function of the position x.,,Numerical,FRQ,Mechanics,"Newton’s Laws + Friction
+"
+1d,"Write, but do not solve, an integral expression that could be used to solve for the work W done by the string on the block as the block moves from x = L to x = 0.",,Numerical,FRQ,Mechanics,"Work, Energy, and Power
+"
+1e,"Does the string do more, less, or the same amount of work on the block as the block moves from
+x = L to x = \frac{L}{2} compared to when the block moves from x = \frac{L}{2} to x = 0?
+
+Answers:
+More work when the block moves from x = L to x = \frac{L}{2}
+Less work when the block moves from x = L to x = \frac{L}{2}
+The same amount of work when the block moves from x = L to x = \frac{L}{2}
+
+Justify your answer.",,Conceptual,FRQ,Mechanics,"Work, Energy, and Power
+"
+2,"Cart 1 of mass m_1 is held at rest above the bottom of an incline. Cart 2 has mass m_2, where m_2 > m_1, and is at rest at the bottom of the incline. At time t = 0, Cart 1 is released and then travels down the incline and smoothly transitions to the horizontal section. The center of mass of Cart 1 moves a vertical distance of H, as shown. At time t_C, Cart 1 reaches the bottom of the incline and immediately collides with and sticks to Cart 2. After the collision, the two-cart system moves with constant speed v. Frictional and rotational effects are negligible.",https://drive.google.com/file/d/1sjig3kMHKHpgHsccxTbU9bgR9UEvE8p9/view?usp=share_link,,,,
+2a," During the collision, is the impulse on Cart 1 from Cart 2 greater than, less than, or equal to the magnitude of the impulse on Cart 2 from Cart 1?
+
+Answers:
+Greater than  
+Less than  
+Equal to
+
+Justify your answer.",,Conceptual,FRQ,Mechanics,"Systems of Particles & Momentum
+"
+2b,"On the following axes, draw graphs of the magnitude of the momentum of each cart as a function of time t, before and after t_C. The collision occurs in a negligible amount of time. The grid lines on each graph are drawn to the same scale.",https://drive.google.com/file/d/1HCNqKh5Qq3tTloJ-x7X7fPwNwVOqvxwm/view?usp=share_link,Numerical,FRQ,Mechanics,"
+Systems of Particles & Momentum
+"
+2c,"Show that the velocity v of the two-cart system after the collision is given by the equation
+v = \sqrt{2g \left( \frac{m_1}{m_1 + m_2} \right) \sqrt{H}}.",,Numerical,FRQ,Mechanics,"Energy + Momentum
+"
+2d,"Show that the velocity v of the two-cart system after the collision is given by the equation
+v = \sqrt{2g \left( \frac{m_1}{m_1 + m_2} \right) \sqrt{H}}.",https://drive.google.com/file/d/1ozLwtrLwPdzyBE9RvTywe1jyChpND0F0/view?usp=share_link,Numerical,FRQ,Mechanics,"Work, Energy, and Power"
+2d-1,Draw a line that represents the best fit to the data points shown.,,Numerical,FRQ,Mechanics,"Work, Energy, and Power"
+2d-2,Use the best-fit line to calculate the mass of Cart 2.,,Numerical,FRQ,Mechanics,"Work, Energy, and Power"
+2e,"After the experiment, the students use a balance to measure the mass of Cart 2 and find it to be less than what was determined in part (d). To explain this discrepancy, one of the students proposes that the mass of Cart 1 was incorrectly measured at the beginning of the experiment. The students measure the mass of Cart 1 again and record a new value, m_1’.
+
+Should the students expect that m_1’ will be greater than 0.250 kg, less than 0.250 kg, or equal to 0.250 kg?
+
+Answers:
+m_1’ > 0.250 \, \text{kg}
+m_1’ < 0.250 \, \text{kg}
+m_1’ = 0.250 \, \text{kg}
+
+Justify your answer.",,Conceptual,FRQ,Mechanics,"Work, Energy, and Power"
+3,"A solid uniform disk is supported by a vertical stand. The disk is able to rotate with negligible friction about an axle that passes through the center of the disk. The mass and radius of the disk are given by M_d and R, respectively. The rotational inertia of the disk is
+I_d = \frac{1}{2} M_d R^2.
+A string of negligible mass is draped over the disk and attached to the top of the disk at point P. One end of the string is connected to an unstretched ideal spring of spring constant k, which is fixed to the ground as shown in Figure 1.
+
+A block of mass m_B is then attached to the string on the right side of the disk. The block is slowly lowered until the spring-disk-block system reaches equilibrium, as shown in Figure 2. In this equilibrium position, the disk has rotated clockwise through a small angle \theta.
+
+Give all algebraic answers in terms of M_d, R, k, \theta, and physical constants, as appropriate.",https://drive.google.com/file/d/1Ht9bWDEBcv8W7kfCgi_NCjO4j_RDdTXp/view?usp=share_link,,,,
+3a,Derive an expression for the mass m_B of the block.,,Numerical,FRQ,Mechanics,"Rotation
+"
+3b,"At time t = 0, the string on the right side of the disk is cut and the block falls to the ground. On the circle below, which represents the disk, draw and label the forces (not components) that act on the disk immediately after the string is cut and the block is falling to the ground. Each force should be represented by an arrow that starts on and is directed away from the point of application.",https://drive.google.com/file/d/1d-sTPeoFA6KQU_v6ng_LiRlq9NrXdeSR/view?usp=share_link,Conceptual,FRQ,Mechanics,"Rotation
+"
+3c,Derive an expression for the angular acceleration \alpha of the disk immediately after the string is cut.,,Numerical,FRQ,Mechanics,"Rotation
+"
+3d,"At t = t_1, the disk has rotated and point P is again directly above the axle. Sketch a graph of the magnitude of the angular velocity \omega of the disk as a function of time t from t = 0 to t = t_1.
+(A blank ω vs. t graph is provided.)",https://drive.google.com/file/d/1Lvonkgq8bfmT7j8jHbY8lsCq1JgDriaS/view?usp=share_link,Numerical,FRQ,Mechanics,"Rotation
+"
+3e,"The disk is adjusted on the support so that the axle does not pass through the center of mass of the disk. The block is again hung on the right side of the disk and the spring-disk-block system comes to equilibrium, as shown in Figure 3. The axle does not exert a torque on the disk. For each force on the disk, indicate whether the magnitude of the torque about the axle caused by that force increases, decreases, or stays the same relative to part (b).",https://drive.google.com/file/d/1XrJI5ZHxlusf-UO87U5_LU5VAD-ThhSj/view?usp=share_link,Conceptual,FRQ,Mechanics,"Rotation
+"

@@ -1,0 +1,81 @@
+Question ID,Text,Question Image,Question Type 1,Question Type 2,Main Topic,Subtopic
+1,"A small sled slides across a rough horizontal table with an initial velocity v_0. The coefficient of kinetic friction between the sled and the table is \mu_k. A string connects the sled to a device on the ground. The device maintains constant tension F_T in the string by unwinding it as the sled slides to the right. The total mass of the sled is m. The string is attached to the device at x = 0 and at a height of y, as shown in Figure 1. The horizontal position of the sled is represented by x, as shown in Figure 2. Express all algebraic answers in terms of m, \mu_k, F_T, x, y, and physical constants, as appropriate.",https://drive.google.com/file/d/1XXLvCJ80TF8m1165b0KMe2cTpQGCjw0Z/view?usp=share_link,,,,
+1a,"On the dot below that represents the sled, draw and label the forces (not components) that are exerted on the sled a short time after t = 0 but before the sled has come to rest. Each force must be represented by a distinct arrow starting on, and pointing away from, the dot.",https://drive.google.com/file/d/17lt0q4l_ykfNB_u6YSG2B19HGUtV6E_7/view?usp=share_link,Conceptual,FRQ,Mechanics,"Newton’s Laws + Friction
+"
+1b,Determine an expression for the angle \theta that the string makes with the vertical when the sled has traveled a horizontal distance x.,,Numerical,FRQ,Mechanics,"Newton’s Laws + Geometry
+"
+1c-1,Derive an expression for the normal force F_N exerted on the sled by the table as a function of the position x.,,Numerical,FRQ,Mechanics,"Newton’s Laws + Friction
+"
+1c-2,Derive an expression for the magnitude of the net horizontal force F_{\text{net}} exerted on the sled as a function of the position x.,,Numerical,FRQ,Mechanics,"Newton’s Laws + Friction
+"
+1d,Derive an expression for the work W done by the string on the sled as the sled moves from x = 0 to x = L.,,Numerical,FRQ,Mechanics,"Work, Energy, and Power
+"
+1e,"The sled comes to rest after traveling a horizontal distance x = 2L. As the system slides from x = 0 to x = L, the energy dissipated by friction is E_1. As the sled slides from x = L to x = 2L, the energy dissipated by friction is E_2. Is E_1 greater than, less than, or equal to E_2?
+
+Answers:
+E_1 > E_2
+E_1 < E_2
+E_1 = E_2
+
+Justify your answer.
+",,Conceptual,FRQ,Mechanics,"Work, Energy, and Power
+"
+2,"Block 1 of mass m_1 is held at rest while compressing an ideal spring an amount \Delta x. The spring constant of the spring is k. Block 2 has mass m_2, where m_2 < m_1. At time t = 0, Block 1 is released. At time t_C, the spring is no longer compressed and Block 1 immediately collides with and sticks to Block 2. The blocks stick together and the two-block system moves with constant speed v, as shown. Frictional effects are negligible.
+",https://drive.google.com/file/d/1lc3qJC7gkKAa4ohlFYIQX9J0mds88L0r/view?usp=share_link,,,,
+2a,"The impulse on Block 1 from the spring during the time interval 0 < t < t_C is J_S. The impulse on Block 1 from Block 2 during the collision is J_2. Which of the following expressions correctly compares the magnitudes of J_S and J_2?
+
+Answers:
+J_S > J_2
+J_S < J_2
+J_S = J_2
+
+Justify your answer.",,Conceptual,FRQ,Mechanics,"Systems of Particles & Momentum
+"
+2b," On the following axes, draw graphs of the magnitude of the momentum of each block as a function of time, before and after t_C. The collision occurs in a negligible amount of time. The grid lines on each graph are drawn to the same scale.",https://drive.google.com/file/d/1sbxJ_y6Lv-XAMhBQ2WIX3vd4OnHg6dW1/view?usp=share_link,Conceptual,FRQ,Mechanics,"Systems of Particles & Momentum
+"
+2c,"Show that the velocity v of the two-block system after the collision is given by the equation:
+v = \frac{\sqrt{k m_1}}{m_1 + m_2} \Delta x",,Numerical,FRQ,Mechanics,Energy + Momentum
+2d,"A group of students use the setup to perform an experiment. They measure the mass of Block 1 to be
+m_1 = 0.500 \, \text{kg}, and the spring constant k of the spring to be 150 \, \text{N/m}. The mass of Block 2 is unknown. They perform several trials and in each trial the spring is compressed a different distance \Delta x and the final velocity v of the two-block system is measured. They graph v as a function of \Delta x, as shown below.",https://drive.google.com/file/d/1x7tL7RotE4zJuPbz1lo1rVIB57OqPTbk/view?usp=share_link,Numerical,,Mechanics,"Work, Energy, and Power
+"
+2d-1,Draw a line that represents the best fit to the data points shown.,,Conceptual,FRQ,Mechanics,"Work, Energy, and Power
+"
+2d-2, Use the best-fit line to calculate the mass of Block 2.,,Numerical,FRQ,Mechanics,"Work, Energy, and Power
+"
+2e,"After the experiment, the students use a balance to measure the mass of Block 2 and find it to be greater than what was determined in part (d). To explain this discrepancy, one of the students proposes that the spring constant was incorrectly measured at the beginning of the experiment. The students measure the spring constant again and record a new value, k’.
+
+Should the students expect that k’ be greater than 150 N/m, less than 150 N/m, or equal to 150 N/m?
+
+Answers:
+k’ > 150 \, \text{N/m}
+k’ < 150 \, \text{N/m}
+k’ = 150 \, \text{N/m}
+
+Justify your answer.",,Conceptual,FRQ,Mechanics,"Work, Energy, and Power
+"
+3,"A uniform board of length L and mass m is attached to a pivot \frac{L}{4} from the left end of the board. The left end of the board is attached to an ideal spring of spring constant k that is attached to the ground. The right end of the board is initially held by a student so that the spring is unstretched, as shown in Figure 1. The student slowly lowers and then releases the board. The board remains at rest in the horizontal position, with the spring stretched, as shown in Figure 2. The rotational inertia of the board about the pivot is I.",https://drive.google.com/file/d/1HopK0DlCmJJ3eplzFwF9ml9Ev-_bzZ4j/view?usp=share_link,,,,
+3a,"On the rectangle below, which represents the board, draw and label the forces (not components) that act on the board while the board-spring system is in equilibrium. Each force should be represented by an arrow that starts on, and points away from, the board, and should represent the location at which that force acts.",https://drive.google.com/file/d/1khDvuQBavkkrzcGqnRmRS7zhL6DsGn8K/view?usp=share_link,Conceptual,FRQ,Mechanics,"Rotation
+"
+3b,"Derive an expression for the distance the spring stretches, \Delta x, when the board is in equilibrium. Express your answer in terms of k, L, m, and physical constants, as appropriate.",,Numerical,FRQ,Mechanics,"Rotation
+"
+3c,"A student pushes the board down on the right side, stretching the spring a new distance \Delta x_2 from the unstretched position. The board is held at a small angle \theta_0 with the horizontal, as shown. The student then releases the board from rest.",https://drive.google.com/file/d/1vu5oOREf6zsA_-EDsh0tG2NRsG9adj8Y/view?usp=share_link,Conceptual,FRQ,Mechanics,"Rotation
+"
+3c-1,"At time t = 0, the board is released. At t = t_1, the board first crosses the horizontal.
+
+Sketch a graph of the magnitude of the angular acceleration \alpha of the board as a function of time t from t = 0 to t = t_1.",https://drive.google.com/file/d/14dvgOLHvnN753EgpCXgI3Zzeoy3-9Jdn/view?usp=share_link,Conceptual,FRQ,Mechanics,"Rotation
+"
+3c-2,"Derive an expression for the angular acceleration \alpha_0 of the board immediately after the board is released.
+Express your answer in terms of k, L, m, I, \Delta x_2, \theta_0, and physical constants, as appropriate.",,Numerical,FRQ,Mechanics,"Rotation
+"
+3d,"Two blocks of equal mass m are attached to the board equal distances from the pivot point, as shown. The board is again pushed down on the right side so that the spring stretches the same distance  \Delta x_2 as in part (c). The board is then released.
+
+How does the new angular acceleration \alpha’ when the blocks are attached compare to the angular acceleration \alpha_0 from part (c)?
+
+Answers:
+\alpha’ > \alpha_0
+\alpha’ < \alpha_0
+\alpha’ = \alpha_0
+
+Justify your answer.
+",https://drive.google.com/file/d/1Lw6L0mqLWKs6vtXMZHL0mbw3gJL_sVSM/view?usp=share_link,Conceptual,FRQ,Mechanics,"Rotation
+"
